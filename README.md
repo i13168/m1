@@ -1,6 +1,6 @@
-# tools
+# 國華國中tools
 
-這是專為測試用的micro:bit積木
+國華國中這是專為測試用的micro:bit積木
 
 ## License
 
